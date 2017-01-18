@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShippingDBwithAndroid</string>
+    <string name="hello">Выберите предмет</string>
+    <string-array name="subjects">
+        <item>БИБД</item>
+        <item>ООП</item>
+        <item>САИО</item>
+    </string-array>
+</resources>
